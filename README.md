@@ -146,7 +146,7 @@ rm -rf docker-compose.yml && nano docker-compose.yml
 ```
 
 * Aşağıdaki kodu kopyalayıp içine yapıştırın
-* Replace `head-id` & `WALLET_SEED_PHRASE`
+* Değiştir `head-id` & `WALLET_SEED_PHRASE`
 ```
 version: '3'
 
