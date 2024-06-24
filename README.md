@@ -2,7 +2,7 @@
 
 > - Keplr'da yeni bir cüzdan oluşturun
 >
-> - Zincir içi Nokta Programına bağlanın [Gösterge Paneli](https://app.allora.network?ref=eyJyZWZlcnJlcl9pZCI6IjVlNmEwMjc5LTcxNjEtNDhmYS04NGM3LWEzYzM0MGM4MGIzNyJ9)
+> - Zincir içi Nokta Programına bağlanın [Gösterge Paneli](https://app.allora.network?ref=eyJyZWZlcnJlcl9pZCI6IjJhNjMxY2VhLThkNTYtNDU0Zi1hMTQ0LTA0MzEzZDNhZjcxMSJ9)
 >
 > - Kampanyalar sekmesinde 2 görev görüyorsunuz, bunları kontrol edin
 > 
