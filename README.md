@@ -8,13 +8,13 @@
 > 
 > - Eğitimde `konu 1` ile bir `Fiyat Tahmin Çalışanı` çalıştırıyoruz (her 24 saatte bir `ETH` fiyatını tahmin etmek)
 >
-> - Check the campaigns tasks steps to see what `topic` means
+> - `Konu`nun ne anlama geldiğini görmek için kampanya görevleri adımlarını kontrol edin
 >
-> - We get points by running a worker
+> - İşçi çalıştırarak puan alıyoruz
 >
-> - The points are 0 for everyone right now and we are not sure that we are 100% fine
+> - Şu anda herkes için puan 0 ve %100 iyi olduğumuzdan emin değiliz
 >
-> - I will update reguarly here, so we make sure that we will gain points when it is fixed
+> - Burada düzenli olarak güncelleme yapacağım, böylece düzeltildiğinde puan kazanacağımızdan emin olacağız.
 
 #
 
