@@ -1,6 +1,6 @@
 Güncellemek için aşağıdaki adımları izleyiniz.
 ```console
-docker rm -f $(docker ps -a -q);docker system prune --volumes -a -f
+docker compose down
 ```
 
 Aşağıdaki docker yaml dosyasına girip içierisinde --topic=1 olan yeri --topic=allora-topic-1-worker olarak güncellememiz gerekiyor.
