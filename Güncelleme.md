@@ -1,7 +1,11 @@
 Güncellemek için aşağıdaki adımları izleyiniz.
 ```console
-cd basic-coin-prediction-node
-docker compose down
+# bu komut ile allora containerlerin idleri alıyoruz.
+docker ps
+
+docker stop İD
+docker rm İD
+# idleri düzenleyerek allora için olanları temizliyoruz.
 ```
 
 Aşağıdaki docker yaml dosyasına girip içierisinde --topic=1 olan yeri --topic=allora-topic-1-worker olarak güncellememiz gerekiyor.
