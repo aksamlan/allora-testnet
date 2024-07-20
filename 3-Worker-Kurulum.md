@@ -1,4 +1,6 @@
-# Bu otomatik scripttir bundan önce varsa önceki dosyaları siliyoruz ve yeniden başlıyoruz, Oluşturmuş olduğunuz cüzdan ile ilerleyebilirsiniz ve ya yenisini oluşturabilirsiniz.
+# Bu otomatik scripttir bundan önce varsa önceki dosyaları silinecektir ve yeniden kurulacaktır, Oluşturmuş olduğunuz cüzdan ile ilerleyebilirsiniz ve ya yenisini oluşturabilirsiniz.
+
+# FAUCET [BURADAN](https://faucet.testnet-1.testnet.allora.network/) ALABİLİRSİNİZ.
 
  YÖNTEM 1 - (EĞER TEK ALLORA ÇALISIYORSA* )BU KOD DOCKER PS İÇERİSİNDEKİ TÜM DOCKERLERİ SİLECEKTİR ONA GÖRE YAPINIZ.EĞER BAŞKA DOCKER İLE ÇALIŞAN PROJE VARSA TEKRAR ÇALIŞTIRMANIZ GEREKİYOR.
 ```console
