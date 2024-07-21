@@ -1,4 +1,4 @@
-# Bu otomatik scripttir bundan önce varsa önceki dosyaları silinecektir ve yeniden kurulacaktır, Oluşturmuş olduğunuz cüzdan ile ilerleyebilirsiniz ve ya yenisini oluşturabilirsiniz.
+# Bu otomatik scripttir bundan önce varsa önceki dosyaları silinecektir ve yeniden kurulacaktır, Oluşturmuş olduğunuz cüzdan ile ilerleyebilirsiniz veya yenisini oluşturabilirsiniz.
 
 # FAUCET [BURADAN](https://faucet.testnet-1.testnet.allora.network/) ALABİLİRSİNİZ.
 
