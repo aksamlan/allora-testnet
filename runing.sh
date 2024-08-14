@@ -77,35 +77,6 @@ cat <<EOF > config.json
         "InferenceEndpoint": "http://inference:8000/inference/{Token}",
         "Token": "SOL"
       }
-                },
-    {
-      "topicId": 7,
-      "inferenceEntrypointName": "api-worker-reputer",
-      "loopSeconds": 9,
-      "parameters": {
-        "InferenceEndpoint": "http://inference:8000/inference/{Token}",
-        "Token": "ETH"
-      }
-          },
-    {
-      "topicId": 8,
-      "inferenceEntrypointName": "api-worker-reputer",
-      "loopSeconds": 11,
-      "parameters": {
-        "InferenceEndpoint": "http://inference:8000/inference/{Token}",
-        "Token": "BNB"
- 
-      }
-                },
-    {
-      "topicId": 9,
-      "inferenceEntrypointName": "api-worker-reputer",
-      "loopSeconds": 12,
-      "parameters": {
-        "InferenceEndpoint": "http://inference:8000/inference/{Token}",
-        "Token": "ARB"
- 
-      }
     }
   ]
 }
