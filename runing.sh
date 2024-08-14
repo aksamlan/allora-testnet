@@ -60,11 +60,6 @@ echo "Belirtilen içerikle oluşturulan yapılandırma dosyası."
 mkdir worker-data
 chmod +x init.config
 ./init.config
- # model.py duzenle
-  nano model.py
-
- # intervals degis
- sed -i 's/intervals = .*/intervals = ["10m", "20m", "1h", "1d"]/' model.py
 
 # Docker containers calistiralim
 docker-compose up -d --build
