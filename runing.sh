@@ -43,39 +43,12 @@ cat <<EOF > config.json
       }
           },
     {
-      "topicId": 3,
+      "topicId": 7,
       "inferenceEntrypointName": "api-worker-reputer",
-      "loopSeconds": 7,
+      "loopSeconds": 5,
       "parameters": {
         "InferenceEndpoint": "http://inference:8000/inference/{Token}",
-        "Token": "BTC"
-      }
-          },
-    {
-      "topicId": 4,
-      "inferenceEntrypointName": "api-worker-reputer",
-      "loopSeconds": 7,
-      "parameters": {
-        "InferenceEndpoint": "http://inference:8000/inference/{Token}",
-        "Token": "BTC"
-      }
-                },
-    {
-      "topicId": 5,
-      "inferenceEntrypointName": "api-worker-reputer",
-      "loopSeconds": 8,
-      "parameters": {
-        "InferenceEndpoint": "http://inference:8000/inference/{Token}",
-        "Token": "SOL"
-      }
-          },
-    {
-      "topicId": 6,
-      "inferenceEntrypointName": "api-worker-reputer",
-      "loopSeconds": 8,
-      "parameters": {
-        "InferenceEndpoint": "http://inference:8000/inference/{Token}",
-        "Token": "SOL"
+        "Token": "ETH"
       }
     }
   ]
